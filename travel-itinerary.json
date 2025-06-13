@@ -1,0 +1,40 @@
+{
+    "trip": "European Adventure",
+    "traveler": "Jaclyn Lemon",
+    "contact info": {
+        "email": "jacklyn.lemon@gmail.com",
+        "phone": "555-123-4567"
+    },
+    "destinations": [
+        {
+            "country": "Italy",
+            "arrival date": "2025-06-15",
+            "departure date": "2025-07-01",
+            "activities": [
+                {
+                    "title": "Visit the Colosseum",
+                    "time": "10:00 AM - 12:00 PM"
+                },
+                {
+                    "title": "Explore the Vatican Museums",
+                    "time": "2:00 PM - 4:00 PM"
+                }
+            ]
+        },
+        {
+            "country": "France",
+            "arrival date": "2025-07-02",
+            "departure date": "2025-07-15",
+            "activities": [
+                {
+                    "title": "Tour the Eiffel Tower",
+                    "time": "9:00 AM - 11:00 AM"
+                },
+                {
+                    "title": "Visit the Louvre Museum",
+                    "time": "1:00 PM - 3:00 PM"
+                }
+            ]
+        }
+    ]
+}
