@@ -10,6 +10,7 @@
             "country": "Italy",
             "arrival date": "2025-06-15",
             "departure date": "2025-07-01",
+            "mode": "Flight",
             "activities": [
                 {
                     "title": "Visit the Colosseum",
@@ -19,12 +20,14 @@
                     "title": "Explore the Vatican Museums",
                     "time": "2:00 PM - 4:00 PM"
                 }
-            ]
+            ],
+            "cost": "$3000.00"
         },
         {
             "country": "France",
             "arrival date": "2025-07-02",
             "departure date": "2025-07-15",
+            "mode": "Train",
             "activities": [
                 {
                     "title": "Tour the Eiffel Tower",
@@ -34,12 +37,14 @@
                     "title": "Visit the Louvre Museum",
                     "time": "1:00 PM - 3:00 PM"
                 }
-            ]
+            ],
+            "cost":"2000.00"
         },
         {
             "country": "Japan",
             "arrival date": "2026-08-02",
             "departure date": "2026-08-15",
+            "mode": "Flight",
             "activities": [
                 {
                     "title": "Go to Train Stations",
@@ -49,7 +54,8 @@
                     "title": "Go Moutain Climbing",
                     "time": "9:00 PM - 11:00 AM"
                 }
-            ]
+            ],
+            "cost":"$3500.00"
         }
     ]
 }
