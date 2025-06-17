@@ -35,6 +35,21 @@
                     "time": "1:00 PM - 3:00 PM"
                 }
             ]
+        },
+        {
+            "country": "Japan",
+            "arrival date": "2026-08-02",
+            "departure date": "2026-08-15",
+            "activities": [
+                {
+                    "title": "Go to Train Stations",
+                    "time": "12:00 PM - 2:00 PM"
+                },
+                {
+                    "title": "Go Moutain Climbing",
+                    "time": "9:00 PM - 11:00 AM"
+                }
+            ]
         }
     ]
 }
